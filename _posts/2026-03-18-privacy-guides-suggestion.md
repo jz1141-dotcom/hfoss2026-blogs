@@ -33,7 +33,7 @@ The README.md has a Contributing section but it's pretty simplistic. The Contrib
 
 I made the pull request and a maintainer added a label saying "pr:missing-discussion," which I assumed meant that I should've opened a discussion on the Privacy Guides forums alongside my pull request. I did that afterwards.
 
-![[privacy guides github contributing guidelines.png]]
+![](/assets/privacy-guides-github-contributing-guidelines.png)
 
 ## The Issue
 There was not an open issue suggesting this. I decided to open a pull request suggesting the app on my own.
@@ -48,6 +48,10 @@ I looked over the Github page to find the contributing guides, which were unfort
 I decided to open up a pull request anyway and I used the apps already recommended as a reference for how to format the new app suggestion. I wrote a description for the app, linked to its privacy policy, and reused the Apple Health icon already there for the health records. I also edited the descriptions for Apple Fitness and Apple Health Records. Apple Health Records' description specifically mentions that it shares the privacy policy and security features of Apple Fitness. Since Apple Health as an app would've been mentioned before Apple Fitness and Apple Health Records is part of the Apple Health app, I moved that particular sentence to Apple Fitness' description and edited it to refer to Apple Health instead.
 
 When I submitted the pull request, the github-actions bot found no conflicts with the merge and built a preview of the website's changes. I had to wait for a maintainer to review and merge the PR. A few hours later, I had my PR labeled as, "pr:missing-discussion." Assuming that I had to open a discussion on the forums before my PR could be accepted, I made an account and opened a thread about my suggestion, describing my reasoning for the suggestion and linking to the pull request.
+
+![](/assets/privacy-guides-PR.png)
+![](/assets/privacy-guides-discussion-1.png)
+![](/assets/privacy-guides-discussion-2.png)
 
 ## Response to the Contribution
 
