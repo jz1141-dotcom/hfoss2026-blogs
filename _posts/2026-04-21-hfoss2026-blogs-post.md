@@ -6,7 +6,7 @@ layout: post
 title:  "Blog Post 1"
 
 # Uncomment only one of the below categories
-categories: 
+categories: Description Change
 #- Bug Fix
 #- Contribution
 
@@ -14,7 +14,7 @@ categories:
 # Enter your name below
 author: JingzhiZhang(Oscar)
 images: 
-- 
+- (https://drive.google.com/file/d/1GH00m5bm0e9Toh7O9RwlN8Qg6hg97Yjd/view)
 - 
 ---
 
