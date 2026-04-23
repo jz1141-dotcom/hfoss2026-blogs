@@ -30,7 +30,7 @@ I pick this because I like using blender, the open-source software let me get fa
 "There is no description of the option after the colon." in the Blender group about Luma Waveform.
 
 ## My Experience
-I found a request in blender showed "There is no description of the option after the colon." I found this page and change the information of description of it.
+I found a request in blender showed "There is no description of the option after the colon." I found this page and change the information of description of it. And then, I communicated with the people who sent out the problem, it is finally solved.
 
 ## Evaluation of Effort
 
